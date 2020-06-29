@@ -1,5 +1,5 @@
+package com.gradle.tutorial;
 import org.junit.Assert;
-import com.gradle.tutorial.FizzBuzzProcessor;
 import org.junit.Test;
 
 public class FizzBuzzTest {
