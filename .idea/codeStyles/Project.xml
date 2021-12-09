@@ -1,8 +1,8 @@
 <component name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
-    <editorconfig>
-      <option name="ENABLED" value="false" />
-    </editorconfig>
+    <JetCodeStyleSettings>
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </JetCodeStyleSettings>
     <codeStyleSettings language="Groovy">
       <indentOptions>
         <option name="INDENT_SIZE" value="2" />
@@ -273,6 +273,9 @@
           <section start_comment="//" />
         </rules>
       </arrangement>
+    </codeStyleSettings>
+    <codeStyleSettings language="kotlin">
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
     </codeStyleSettings>
   </code_scheme>
 </component>
